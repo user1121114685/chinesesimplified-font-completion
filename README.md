@@ -12,15 +12,15 @@
 
 ## 最近更新
 
+### 2.138-5
+
++ 字体采用 CID 编码的 OpenType/CFF 格式。
+
 ### 2.138-4
 
 + 基于 Noto Sans CJK 2.000。
 + 默认使用比例假名。
 + 本模块不再提供 Noto Sans CJK JP/KR/SC/TC 家族。如果有需要，可以另外安装 [Noto CJK (Lite)](https://github.com/Magisk-Modules-Repo/notocjk-otc-lite) 或 [Noto CJK](https://github.com/Magisk-Modules-Repo/notocjk) 模块。本模块和 Noto CJK (Lite)、Noto CJK 不冲突。
-
-### 2.138-3
-
-+ 修正缺字问题
 
 ## 预览
 
@@ -38,7 +38,7 @@
 
 ## 致谢
 
-这些字体基于 [Roboto](https://github.com/google/roboto)、[Noto 字体家族](https://github.com/googlei18n/noto-fonts)、[Noto CJK](https://github.com/googlei18n/noto-cjk) 修改而成。修改字体用的脚本在[这里](https://github.com/CyanoHao/android-chinesesimplified-font-completion-generator)。
+这些字体基于 [Roboto](https://github.com/google/roboto)、[Noto 字体家族](https://github.com/googlei18n/noto-fonts)、[Noto CJK](https://github.com/googlei18n/noto-cjk) 修改而成。修改字体用的脚本在[这里](https://github.com/CyanoHao/android-cjk-font-completion-generator)。
 
 感谢 [simonsmh](https://github.com/simonsmh)，本模块受到他的 [NotoSansCJK (Nougat&Oreo)](https://github.com/Magisk-Modules-Repo/magisk-notosanscjk-nougat) 的启发，并且在早期版本中使用了他的部分代码。
 

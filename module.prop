@@ -1,7 +1,6 @@
 id=chinesesimplified-font-completion
 name=Chinese (Simplified) Font Completion
-version=2.138-4
-versionCode=4
+version=2.138-5
+versionCode=5
 author=Cyano Hao
 description=Systemless patch for complete Chinese (Simplified) font, including multi-weight Sans Serif, Serif, and Sans Serif Condensed, for Android 5.0+. (适用于 Android 5.0+ 的简体中文完整字体包，包含 Sans Serif、Serif、Sans Serif Condensed 三个字族以及多个字重。)
-minMagisk=1500

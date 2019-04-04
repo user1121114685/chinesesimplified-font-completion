@@ -12,15 +12,15 @@ Complete Chinese (Simplified) font, including multi-weight Sans Serif, Serif, an
 
 ## Recent Changes
 
+### 2.138-5
+
++ Fonts are shipped in CID-keyed OpenType/CFF format.
+
 ### 2.138-4
 
 + Based on Noto Sans CJK 2.000.
 + Proportional Kana by default.
 + Noto Sans CJK JP/KR/SC/TC families are not provided in this module. If you find them useful, just install [Noto CJK (Lite)](https://github.com/Magisk-Modules-Repo/notocjk-otc-lite) or [Noto CJK](https://github.com/Magisk-Modules-Repo/notocjk) module and they will be back. This module does not conflict with [Noto CJK (Lite)] or [Noto CJK].
-
-### 2.138-3
-
-+ Fix some missing glyphs.
 
 ## Preview<br>预览
 
@@ -38,7 +38,7 @@ Complete Chinese (Simplified) font, including multi-weight Sans Serif, Serif, an
 
 ## Credit
 
-These fonts are based on [Roboto](https://github.com/google/roboto), [Noto Fonts](https://github.com/googlei18n/noto-fonts), and [Noto CJK](https://github.com/googlei18n/noto-cjk); generating script can be found [here](https://github.com/CyanoHao/android-chinesesimplified-font-completion-generator).
+These fonts are based on [Roboto](https://github.com/google/roboto), [Noto Fonts](https://github.com/googlei18n/noto-fonts), and [Noto CJK](https://github.com/googlei18n/noto-cjk); generating script can be found [here](https://github.com/CyanoHao/android-cjk-font-completion-generator).
 
 Thanks to [simonsmh](https://github.com/simonsmh). This module is inspired by, and was based on his [NotoSansCJK (Nougat&Oreo)](https://github.com/Magisk-Modules-Repo/magisk-notosanscjk-nougat).
 
