@@ -12,9 +12,10 @@ Complete Chinese (Simplified) font, including multi-weight Sans Serif, Serif, an
 
 ## Recent Changes
 
-### 2.138-5
+### 2.138-6
 
 + Fonts are shipped in CID-keyed OpenType/CFF format.
++ Migrated to new Magisk module installer.
 
 ### 2.138-4
 
