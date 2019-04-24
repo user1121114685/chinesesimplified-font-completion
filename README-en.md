@@ -12,6 +12,13 @@ Complete Chinese (Simplified) font, including multi-weight Sans Serif, Serif, an
 
 ## Recent Changes
 
+### 2.138-7
+
++ Based on Noto Sans CJK 2.001:
+  + Placeholder for “㋿” (U+32FF), ligature form of Japanese new era “令和”, are actual glyphs;
+  + Glyph corrections;
+  + “廴” were redesigned.
+
 ### 2.138-6
 
 + Fonts are shipped in CID-keyed OpenType/CFF format.
